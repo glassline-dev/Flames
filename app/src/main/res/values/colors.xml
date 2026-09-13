@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="flames_red">#E53935</color>
+    <color name="flames_orange">#FF6D00</color>
+    <color name="flames_yellow">#FFC107</color>
+    <color name="flames_dark">#1A0B08</color>
+    <color name="flames_surface">#2A120D</color>
+    <color name="flames_text">#FFF8F2</color>
+    <color name="flames_muted">#D7BDB3</color>
+</resources>
